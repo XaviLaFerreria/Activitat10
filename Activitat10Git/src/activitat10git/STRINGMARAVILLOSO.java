@@ -21,7 +21,7 @@ public class STRINGMARAVILLOSO {
     public static void Actualizado() {
 
         System.out.println("La versió que tenim a github ha estat actualitzada i és mes actual que la que tinc en local");
-
+        System.out.println("Version Actualizada");
     }
 
     public static void ParteSuperior(String M) {
